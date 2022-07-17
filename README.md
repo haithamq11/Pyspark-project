@@ -1,2 +1,2 @@
 # Pyspark-project
-Implementing spark with small dataset the predict tips using linear regression.
+Implementing spark with a small dataset to predict tips using linear regression.
